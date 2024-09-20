@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
    
-cout<< "Yet not programmer"<< endl;
+cout<< "programmer"<< endl;
 return 0;
 
 // Hi himanshu!!
